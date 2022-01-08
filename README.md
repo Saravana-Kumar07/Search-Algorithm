@@ -94,8 +94,8 @@ else:
 ```
 ## Output
 ### For (i), ![output](./img/output1.png)
-### For (i), ![output](./img/output2.png)
-### For (i), ![output](./img/output3.png)
+### For (ii), ![output](./img/output2.png)
+### For (iii), ![output](./img/output3.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
